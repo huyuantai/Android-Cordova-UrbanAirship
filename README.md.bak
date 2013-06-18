@@ -31,6 +31,7 @@ In above,you will get
 * AppKey
 * AppSecret 
 
+
     $ git clone https://github.com/huyuantai/Android-Cordova-UrbanAirship.git
 
 cd to sample-app/assets
