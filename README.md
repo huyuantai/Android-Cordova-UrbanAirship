@@ -19,7 +19,7 @@ Run it
 This moment,we assume that you have already finish your Android Platform,
 and make sure that you can run your first android project with it.
 
-You have to use gcm in order to push notification£¬you can start it in here
+You have to use gcm in order to push notification,you can start it in here
 [Gcm](http://docs.urbanairship.com/build/android.html#get-your-api-key-from-google) 
 
 You will use UrbanAirship Services in order to communicate with gcm,you can get it here
@@ -31,14 +31,12 @@ In above,you will get
 * AppKey
 * AppSecret 
 
-    $ git clone https://github.com/huyuantai/Android-Cordova-UrbanAirship.git
-
 cd to sample-app/assets
 
 1.change the airshipconfig.properties.sample to airshipconfig.properties,and then configure your AppKey,AppSecret,and gcmSender
 
 2.change the location.properties.sample to location.properties.
 
-run the project 
+3.run the project 
 
     
