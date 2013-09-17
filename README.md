@@ -39,7 +39,7 @@ cd to sample-app/assets
 
 3.run the project 
 
-more>>
+4.more>>
 
 You can learn it for details in [here](https://github.com/urbanairship/phonegap-ua-push) 
 
